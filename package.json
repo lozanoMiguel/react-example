@@ -2,7 +2,7 @@
   "name": "react-example",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://migueLozano.github.io/react-example",
+  "homepage" : "http://lozanoMiguel.github.io/react-example",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
